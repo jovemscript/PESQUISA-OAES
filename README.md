@@ -11,3 +11,6 @@
 
 ## Sobre o Projeto
 <p>Projeto desenvolvido para facilitação do público ao acesso da pesquisa sobre OAEs - Obras de Artes especiais do estado da Paraíba. Estudo realizada por Denner Viana, estudante de Engenharia Civil na UFPB –  João Pessoa.</p>
+
+## Acesse em:
+https://dennerpesquisa.netlify.app/
